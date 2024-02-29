@@ -1,6 +1,10 @@
 
 # Sentimental Probe
 
+![Screenshot (270)](https://github.com/mohsinXkhan/Sentimental-Prob/assets/142158782/2105892d-4d31-4868-9b75-b3c0a9460057)
+
+![Screenshot (271)](https://github.com/mohsinXkhan/Sentimental-Prob/assets/142158782/f4d356a2-b6b3-4819-9283-b04196f330d8)
+
 ## Introduction
 
 The world today is characterized by an ever-increasing amount of information shared online. People express their thoughts, feelings, and opinions through text in various forms, including reviews, comments, social media posts, and more. Understanding these sentiments, whether they are positive, negative, or neutral, is essential for individuals, businesses, and organizations. This is where our project, "Sentimental Probe," and the accompanying software "SentiMatrix" come into play.
