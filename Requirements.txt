@@ -1,0 +1,10 @@
+
+
+javac -cp ".;jfreechart-1.0.19\*;stanford-corenlp-4.5.4\*;javafx-sdk-20.0.2\*" MainFrame.java
+
+java -cp ".;jfreechart-1.0.19\*;stanford-corenlp-4.5.4\*;javafx-sdk-20.0.2\*" MainFrame
+
+
+
+
+Requirements: https://drive.google.com/drive/folders/1Znc_9pihIeh0ttHad9j-U_Llh-6RR0fp?usp=drive_link
